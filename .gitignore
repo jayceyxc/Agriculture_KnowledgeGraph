@@ -103,3 +103,10 @@ wikidataSpider/TrainDataBaseOnWiki/train_data*.txt
 relationExtraction/data/*.txt
 demo/.idea/*
 .idea/*
+idea/
+.idea/workspace.xml
+.idea/libraries
+.idea/*.*
+.DS_Store
+*/.DS_Store
+*.pyc
